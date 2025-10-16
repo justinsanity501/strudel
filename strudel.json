@@ -25,4 +25,9 @@
     "breaks/cw_amen18_178.wav",
     "breaks/cw_amen19_172.wav",
     "breaks/cw_amen20_164.wav"]
+"pad": ["pad/10_switch_angel_pad.wav",
+    "pad/11_switch_angel_pad.wav",
+    "pad/12_switch_angel_pad.wav",
+    "pad/13_switch_angel_pad.wav",
+    "pad/14_switch_angel_pad.wav"]
 }
