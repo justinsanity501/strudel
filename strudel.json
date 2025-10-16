@@ -1,9 +1,9 @@
 {
     "b_loops":[
-        "/bass/b_loops/F_174_LIQUID BASS LOOP.wav"
+        "/bass/b_loops/F_174_LIQUID_BASS_LOOP.wav"
     ],
     "b_stabs":[
-        "/bass/b_stabs/F_COLOR BASS STAB.wav"
+        "/bass/b_stabs/F_COLOR_BASS_STAB.wav"
     ],
     "breaks":[
         "/breaks/10_break.wav",
@@ -33,27 +33,27 @@
         "/breaks/cw_amen20_164.wav"
     ],
     "chops":[
-        "/chops/F_174_VOCAL CHOPS 1 LOOP.wav",
-        "/chops/F_174_VOCAL CHOPS 2 LOOP.wav"
+        "/chops/F_174_VOCAL_CHOPS_1_LOOP.wav",
+        "/chops/F_174_VOCAL_CHOPS_2_LOOP.wav"
     ],
     "d_loops":[
-        "/drums/d_loops/174_DRUMS FULL LOOP.wav",
-        "/drums/d_loops/174_GLITCH HAT LOOP.wav",
-        "/drums/d_loops/174_SHAKER LOOP.wav",
-        "/drums/d_loops/CYMBAL LOOP.wav"
+        "/drums/d_loops/174_DRUMS_FULL_LOOP.wav",
+        "/drums/d_loops/174_GLITCH_HAT_LOOP.wav",
+        "/drums/d_loops/174_SHAKER_LOOP.wav",
+        "/drums/d_loops/CYMBAL_LOOP.wav"
     ],
     "j_bd":[
         "/drums/j_bd/KICK.wav"
     ],
     "j_oh":[
-        "/drums/j_oh/HAT LONG.wav"
+        "/drums/j_oh/HAT_LONG.wav"
     ],
     "j_sd":[
         "/drums/j_sd/SNARE.wav"
     ],
     "fx":[
-        "/fx/F_TUSCANY WAVES FX.wav",
-        "/fx/F_VOX IMPACT FX.wav"
+        "/fx/F_TUSCANY_WAVES_FX.wav",
+        "/fx/F_VOX_IMPACT_FX.wav"
     ],
     "pad":[
         "/pad/10_switch_angel_pad.wav",
@@ -61,9 +61,8 @@
         "/pad/12_switch_angel_pad.wav",
         "/pad/13_switch_angel_pad.wav",
         "/pad/14_switch_angel_pad.wav",
-        "/pad/F_174_COLOR PAD LOOP.wav",
-        "/pad/F_174_GOT NOISE LOOP.wav"
+        "/pad/F_174_COLOR_PAD_LOOP.wav",
+        "/pad/F_174_GOT_NOISE_LOOP.wav"
     ],
     "_base": "https://raw.githubusercontent.com/justinsanity501/strudel/main/"
-
 }
