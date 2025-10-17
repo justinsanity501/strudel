@@ -1,9 +1,26 @@
 {
     "b_loops":[
-        "/bass/b_loops/F_174_LIQUID_BASS_LOOP.wav"
+        "/bass/b_loops/Bruth-Bass-D-min.wav",
+        "/bass/b_loops/F_174_LIQUID_BASS_LOOP.wav",
+        "/bass/b_loops/GT_174_Reese_F_C#.wav",
+        "/bass/b_loops/jungle-bassline-2.wav",
+        "/bass/b_loops/jungle-bassline.wav",
+        "/bass/b_loops/jungle-wobbler.wav",
+        "/bass/b_loops/reece-E♭-min.wav",
+        "/bass/b_loops/Reese-Loop-E-min.wav",
+        "/bass/b_loops/Renegade-bassline.wav"
     ],
     "b_stabs":[
-        "/bass/b_stabs/F_COLOR_BASS_STAB.wav"
+        "/bass/b_stabs/808-F#.wav",
+        "/bass/b_stabs/Bloque-Renegade-Reese.wav",
+        "/bass/b_stabs/Bloque-Smooth-Reese.wav",
+        "/bass/b_stabs/F_COLOR_BASS_STAB.wav",
+        "/bass/b_stabs/Highpass-bass-1.wav",
+        "/bass/b_stabs/Highpass-bass-2.wav",
+        "/bass/b_stabs/Highpass-bass-3.wav"
+    ],
+    "bass":[
+        "/bass/DeepSubBass_01_E.wav"
     ],
     "breaks":[
         "/breaks/10_break.wav",
@@ -11,6 +28,7 @@
         "/breaks/12_break.wav",
         "/breaks/13_break.wav",
         "/breaks/14_break.wav",
+        "/breaks/big-amen.wav",
         "/breaks/cw_amen01_175.wav",
         "/breaks/cw_amen02_165.wav",
         "/breaks/cw_amen03_167.wav",
@@ -30,30 +48,182 @@
         "/breaks/cw_amen17_175.wav",
         "/breaks/cw_amen18_178.wav",
         "/breaks/cw_amen19_172.wav",
-        "/breaks/cw_amen20_164.wav"
+        "/breaks/cw_amen20_164.wav",
+        "/breaks/GT_174_Basic_Think_Loop.wav",
+        "/breaks/GT_174_Dist_Rev_Think_Loop.wav"
     ],
     "chops":[
         "/chops/F_174_VOCAL_CHOPS_1_LOOP.wav",
-        "/chops/F_174_VOCAL_CHOPS_2_LOOP.wav"
+        "/chops/F_174_VOCAL_CHOPS_2_LOOP.wav",
+        "/chops/GT_174_Vocal_FX_1.wav",
+        "/chops/GT_174_Vocal_FX_2.wav",
+        "/chops/vocal-E♭-min.wav",
+        "/chops/Vocal_Fm.wav"
     ],
-    "d_loops":[
-        "/drums/d_loops/174_DRUMS_FULL_LOOP.wav",
-        "/drums/d_loops/174_GLITCH_HAT_LOOP.wav",
-        "/drums/d_loops/174_SHAKER_LOOP.wav",
-        "/drums/d_loops/CYMBAL_LOOP.wav"
+    "drums":[
+        "/drums/DrumLoop_01.wav",
+        "/drums/Kick_01.wav",
+        "/drums/Shuffle_Loop.wav",
+        "/drums/Tops_01.wav",
+        "/drums/Tops_02.wav"
+    ],
+    "full_loop":[
+        "/drums/full_loop/174_DRUMS_FULL_LOOP.wav",
+        "/drums/full_loop/drumloop-1.wav",
+        "/drums/full_loop/drumloop-2.wav",
+        "/drums/full_loop/drums2.wav",
+        "/drums/full_loop/Frameshift_Kick Snare_Loop_Designate_87-bpm.wav",
+        "/drums/full_loop/full-drums1.wav",
+        "/drums/full_loop/GT_174_Kick_Snare.wav",
+        "/drums/full_loop/Highpass-drum-loop-174-bpm.wav",
+        "/drums/full_loop/MV_DrumLoop01_174.wav",
+        "/drums/full_loop/MV_DrumLoop03_173.wav",
+        "/drums/full_loop/MV_DrumLoop04_175.wav",
+        "/drums/full_loop/MV_DrumLoop05_175.wav",
+        "/drums/full_loop/MV_DrumLoop2_172.wav",
+        "/drums/full_loop/Roller-drumloop.wav",
+        "/drums/full_loop/Shuffler-drumloop.wav"
+    ],
+    "hh_loop":[
+        "/drums/hh_loop/174_GLITCH_HAT_LOOP.wav",
+        "/drums/hh_loop/Bloque-Hatloop-174-BPM.wav",
+        "/drums/hh_loop/Frameshift_Perc_Hihat_Loop_87-bpm.wav",
+        "/drums/hh_loop/Frameshift_Perc_Hihat_Loop_Designate_87-bpm.wav",
+        "/drums/hh_loop/Frameshift_Perc_Loop_87-bpm.wav",
+        "/drums/hh_loop/GT_174_Hats_1.wav",
+        "/drums/hh_loop/GT_174_Hats_2.wav",
+        "/drums/hh_loop/GT_174_Hats_Tamb.wav",
+        "/drums/hh_loop/hats.wav",
+        "/drums/hh_loop/MV_Hat01_174.wav",
+        "/drums/hh_loop/MV_Hat02_172.wav",
+        "/drums/hh_loop/MV_Hat03_175.wav"
     ],
     "j_bd":[
-        "/drums/j_bd/KICK.wav"
+        "/drums/j_bd/Bloque-Thuddy-Kick.wav",
+        "/drums/j_bd/Bloque-Tonk-Kick.wav",
+        "/drums/j_bd/Frameshift_Downfilterkick_Oneshot_87-bpm.wav",
+        "/drums/j_bd/Frameshift_Kick 1_Oneshot_87-bpm.wav",
+        "/drums/j_bd/Frameshift_Kick 2_Oneshot_87-bpm.wav",
+        "/drums/j_bd/GT_174_808_Kick_A.wav",
+        "/drums/j_bd/Highpass-kick.wav",
+        "/drums/j_bd/hpKick.wav",
+        "/drums/j_bd/Kick-1.wav",
+        "/drums/j_bd/Kick-2.wav",
+        "/drums/j_bd/KICK.wav",
+        "/drums/j_bd/kick1.wav",
+        "/drums/j_bd/Kick_1.wav",
+        "/drums/j_bd/Kick_2.wav",
+        "/drums/j_bd/Kick_3.wav",
+        "/drums/j_bd/MV_Kick01.wav",
+        "/drums/j_bd/MV_Kick02.wav",
+        "/drums/j_bd/MV_Kick03.wav",
+        "/drums/j_bd/MV_Kick04.wav"
+    ],
+    "j_cp":[
+        "/drums/j_cp/Clap.wav"
+    ],
+    "j_cr":[
+        "/drums/j_cr/crash.wav",
+        "/drums/j_cr/Frameshift_Reverse_Cymbal_Oneshot_87-bpm.wav",
+        "/drums/j_cr/Frameshift_Reverse_Ride_Oneshot_87-bpm.wav"
+    ],
+    "j_hh":[
+        "/drums/j_hh/Hat_1.wav",
+        "/drums/j_hh/Hat_2.wav",
+        "/drums/j_hh/Hat_3.wav"
     ],
     "j_oh":[
         "/drums/j_oh/HAT_LONG.wav"
     ],
     "j_sd":[
-        "/drums/j_sd/SNARE.wav"
+        "/drums/j_sd/Bloque-Rim-Snare.wav",
+        "/drums/j_sd/Bloque-Sharp-Snare.wav",
+        "/drums/j_sd/Frameshift_Snare 1_Oneshot_87-bpm.wav",
+        "/drums/j_sd/Frameshift_Snare 2_Oneshot_87-bpm.wav",
+        "/drums/j_sd/GT_174_808_Snare.wav",
+        "/drums/j_sd/Highpass-snare.wav",
+        "/drums/j_sd/MV_Snare01.wav",
+        "/drums/j_sd/MV_Snare02.wav",
+        "/drums/j_sd/MV_Snare03.wav",
+        "/drums/j_sd/MV_Snare04.wav",
+        "/drums/j_sd/MV_Snare05.wav",
+        "/drums/j_sd/Snare-1.wav",
+        "/drums/j_sd/Snare-2.wav",
+        "/drums/j_sd/SNARE.wav",
+        "/drums/j_sd/Snare_1.wav",
+        "/drums/j_sd/Snare_2.wav"
+    ],
+    "other_loop":[
+        "/drums/other_loop/174_SHAKER_LOOP.wav",
+        "/drums/other_loop/Bloque-Shaker-Break-174-BPM.wav",
+        "/drums/other_loop/CYMBAL_LOOP.wav",
+        "/drums/other_loop/Highpass-Shaker-Loop-174-bpm.wav"
+    ],
+    "tops_loop":[
+        "/drums/tops_loop/Bloque-Pantz-174-BPM.wav",
+        "/drums/tops_loop/Bloque-Shuffler-174-BPM.wav",
+        "/drums/tops_loop/Drum Top Loop.wav",
+        "/drums/tops_loop/Drum-Tops-2.wav",
+        "/drums/tops_loop/Drum-Tops.wav",
+        "/drums/tops_loop/MV_DrumTops01_174.wav",
+        "/drums/tops_loop/MV_DrumTops02_172.wav",
+        "/drums/tops_loop/MV_DrumTops03_173.wav",
+        "/drums/tops_loop/MV_DrumTops04_175.wav",
+        "/drums/tops_loop/MV_DrumTops05_175.wav",
+        "/drums/tops_loop/toploop.wav"
     ],
     "fx":[
+        "/fx/Big-City-Bleeps.wav",
+        "/fx/Drone.wav",
+        "/fx/Flute_FX_1_F maj.wav",
         "/fx/F_TUSCANY_WAVES_FX.wav",
-        "/fx/F_VOX_IMPACT_FX.wav"
+        "/fx/F_VOX_IMPACT_FX.wav",
+        "/fx/GT_174_Bass_FX_Dry_F.wav",
+        "/fx/GT_174_Bass_FX_Wet_F.wav",
+        "/fx/GT_174_FX_Fm.wav",
+        "/fx/Hat-Cinematic-Impact.wav",
+        "/fx/Heli-Riser.wav",
+        "/fx/MV_FX01_Fm174.wav",
+        "/fx/MV_OB6FX_Gmaj174.wav",
+        "/fx/ReverseThinkFX.wav",
+        "/fx/Riser_FX.wav",
+        "/fx/Stari-Grad-Waves-Riser.wav",
+        "/fx/Vocal_FX.wav"
+    ],
+    "k_stabs":[
+        
+        "/keys/k_stabs/PianoRevStab_01_Dbm.wav",
+        "/keys/k_stabs/PianoRevStab_02_Dbm.wav",
+        "/keys/k_stabs/Stab_01_E.wav"
+    ],
+    "k_loops":[
+        "/keys/k_loops/arp-E♭-maj.wav",
+        "/keys/k_loops/Bloque-Atmos-Piano-1-A♭-major-174-BPM.wav",
+        "/keys/k_loops/Bloque-Atmos-Piano-2-A♭-major-174-BPM.wav",
+        "/keys/k_loops/Bloque-Atmos-Piano-3-C#-major-174-BPM.wav",
+        "/keys/k_loops/Bruth-Arp-2-F-major.wav",
+        "/keys/k_loops/Bruth-Arp-3-F-maj.wav",
+        "/keys/k_loops/Bruth-Arp-C-maj.wav",
+        "/keys/k_loops/Bruth-Bell-Arp-G-ma.wav",
+        "/keys/k_loops/Bruth-Bells-A-min.wav",
+        "/keys/k_loops/Bruth-Brass-B♭-min.wav",
+        "/keys/k_loops/Frameshift_Melodic_ARP_Loop_A#maj_87-bpm.wav",
+        "/keys/k_loops/Frameshift_Melodic_Melody_Loop_Amaj_87-bpm.wav",
+        "/keys/k_loops/Frameshift_Melodic_Melody_Loop_Gmaj_87-bpm.wav",
+        "/keys/k_loops/Frameshift_Melodic_Piano_Loop_Bmin_87-bpm.wav",
+        "/keys/k_loops/GT_174_Piano_Fm.wav",
+        "/keys/k_loops/Highpass-piano-loop-C-major-174-BPM.wav",
+        "/keys/k_loops/Highpass-piano-loop-E-minor-175-BPM.wav",
+        "/keys/k_loops/MV_OB6arp_Fmin174.wav",
+        "/keys/k_loops/MV_OB6chords_Gmaj174.wav",
+        "/keys/k_loops/MV_piano_Amin174.wav",
+        "/keys/k_loops/MV_piano_Bmin174.wav",
+        "/keys/k_loops/MV_rhodes01_Eb174.wav",
+        "/keys/k_loops/MV_rhodes02_Eb174.wav",
+        "/keys/k_loops/Piano-loop-Fmaj.wav",
+        "/keys/k_loops/piano1-C-min.wav",
+        "/keys/k_loops/Bridges_Chords_Ab.wav",
+        "/keys/k_loops/reverse-piano-C#-min.wav"
     ],
     "pad":[
         "/pad/10_switch_angel_pad.wav",
@@ -61,8 +231,40 @@
         "/pad/12_switch_angel_pad.wav",
         "/pad/13_switch_angel_pad.wav",
         "/pad/14_switch_angel_pad.wav",
+        "/pad/Atmo_pad_1_E-maj.wav",
+        "/pad/Atmo_pad_2_F#-min.wav",
+        "/pad/Bloque-Pad-Cloud-C-minor.wav",
+        "/pad/Bloque-Pad-Cosmic-F-minor.wav",
+        "/pad/Bloque-Pad-Jupiter-F-minor.wav",
+        "/pad/Bruth-pad-A-min.wav",
+        "/pad/Bruth-Pads-2-G-maj.wav",
+        "/pad/choppy-pad-Fmin.wav",
+        "/pad/Chords_Cm.wav",
+        "/pad/crystal-pad-Emin.wav",
+        "/pad/deep-pad-loop-Emin.wav",
+        "/pad/Flute_pad_1_F-maj.wav",
         "/pad/F_174_COLOR_PAD_LOOP.wav",
-        "/pad/F_174_GOT_NOISE_LOOP.wav"
+        "/pad/F_174_GOT_NOISE_LOOP.wav",
+        "/pad/gated-pad-E♭-maj.wav",
+        "/pad/GT_174_PadFX_Fm7.wav",
+        "/pad/GT_174_Pad_Am.wav",
+        "/pad/Highpass-pads-atmos-A♭-major.wav",
+        "/pad/Highpass-pads-atmos-C-minor.wav",
+        "/pad/Highpass-pads-atmos-E-minor.wav",
+        "/pad/Highpass-pads-Loop-F-minor-174-BPM.wav",
+        "/pad/Illusion-Music-Loop-2-F#-min.wav",
+        "/pad/Lush-pad-E♭-maj.wav",
+        "/pad/massive-atmos-pad-33 bars-Fmin.wav",
+        "/pad/MV_FX02_F#174.wav",
+        "/pad/one-shot-pad-F#-min.wav",
+        "/pad/pad2-F#-min.wav",
+        "/pad/pad3-F-min.wav",
+        "/pad/shiny-pad-loop-Gmin.wav",
+        "/pad/Strings_1_C-maj.wav",
+        "/pad/Strings_2+_D-min.wav",
+        "/pad/Strings_2_D-min.wav",
+        "/pad/Stutter-Atmos-B-maj.wav",
+        "/pad/These-Walls-Music-Loop-1-F-min.wav"
     ],
     "_base": "https://raw.githubusercontent.com/justinsanity501/strudel/main/"
 }
